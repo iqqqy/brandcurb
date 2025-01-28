@@ -1,0 +1,905 @@
+@media(max-width:1024px){
+    .information{
+        display: none;
+    }
+    .list,.icons-nav,.buttons-nav{
+        display: none;
+
+    }
+    .navbar{
+        width:100%;
+        top: 0;
+    }
+        .navbar-box{
+            width: 100%;
+            padding: 0 20px;
+            align-items: center;
+        }
+        
+        .wrapper{
+            display: block;
+            font-size: 40px;
+        color: #ed5e3a;
+        }
+        .main-section{
+            
+        }
+        .main{
+        
+        }
+        .main-section h3{
+         font-size: 12px;
+         padding-top: 40px;
+        }
+        .main-section h1{
+            font-size: 58px;
+        }
+        .main-section p{
+   font-size: 15px;
+        }
+        .btn-1 button {
+            padding: 16px 40px;
+        }
+       .btns{
+            flex-direction: column;
+            gap: 10px;
+            align-items: center;
+        }
+        .communication{
+            flex-direction: column;
+            gap: 10px;
+            align-items: center;
+        }
+        .left-image-communication img{
+            width: 100%;
+        }
+        .right-text-communication{
+            text-align: center;
+        }
+        .right-text-communication h3{
+            margin: 0 auto;
+        }
+        .right-text-communication h2{
+         font-size: 45px;
+        }
+        .right-text-communication p{
+            font-size: 15px;
+        }
+        .btns-communication{
+            flex-direction: column;
+            align-items: center;
+            gap: 10px;
+        }
+        
+        .content-services{
+            flex-direction: column;
+        }
+        .content-services p{
+            padding-top: 10px;
+            font-size: 15px;
+        }
+        .services{
+            width: 90%;
+        }
+        .box{
+        
+        }
+        .business{
+            width: 90%;
+        }
+        .business h2{
+            font-size: 45px;
+        }
+        .business p{
+            font-size: 15px;
+        }
+        .clients h2{
+            font-size: 40px;
+        }
+            .clients-box{
+                display: flex;
+                width: 90%;
+            }
+            .icon-l-r i{
+                font-size: 18px;
+            }
+            .clients{
+            width: 95%;
+            }
+        
+        .content-blogs{
+            flex-direction: column;
+            align-items: center;
+            gap: 10px;
+        }
+        .headings h3{
+            margin: 0 auto;
+        }
+        .headings{
+            text-align: center;
+        }
+        .btn-2 button{
+margin-bottom: 10px;
+        }
+        .blogs{
+           width: 95%;
+        }
+        .blog-box{
+            width: 32%;
+        }
+        .blog-box img{
+            width: 100%;
+    height: 200px;
+        }
+
+}
+
+@media(max-width:768px){
+    .information{
+        display: none;
+    }
+    .list,.icons-nav,.buttons-nav{
+        display: none;
+
+    }
+    .navbar{
+        width:100%;
+        top: 0;
+    }
+        .navbar-box{
+            width: 100%;
+            padding: 0 20px;
+            align-items: center;
+        }
+        
+        .wrapper{
+            display: block;
+            font-size: 40px;
+        color: #ed5e3a;
+        }
+        .main{
+            width: 100%;
+        }
+        .main-section{
+            width: 100%;
+        }
+        .main-section h3{
+         font-size: 12px;
+         padding-top: 40px;
+        }
+        .main-section h1{
+            font-size: 45px;
+        }
+        .main-section p{
+   font-size: 15px;
+        }
+        .btns{
+            flex-direction: column;
+            gap: 10px;
+            align-items: center;
+        }
+        .communication{
+            flex-direction: column;
+            gap: 20px;
+            align-items: center;
+            width: 100%;
+        }
+        .left-image-communication {
+            width: 90%;
+        }
+        .right-text-communication{
+            text-align: center;
+            width: 90%;
+        }
+        .right-text-communication h3{
+            margin: 0 auto;
+        }
+        .right-text-communication h2{
+         font-size: 38px;
+        }
+        .right-text-communication p{
+            font-size: 15px;
+        }
+        .btns-communication{
+            flex-direction: column;
+            align-items: center;
+            gap: 10px;
+        }
+        .content-services{
+            flex-direction: column;
+        }
+        .content-services p{
+            padding-top: 10px;
+            font-size: 15px;
+        }
+        .first-boxes-services{
+            flex-direction: column;
+            align-items: center;
+            gap: 30px;
+        }
+        .services{
+            width: 100%;
+        }
+        .box{
+            width: 90%;
+        }
+        .business h2{
+            font-size: 45px;
+        }
+        .business p{
+            font-size: 15px;
+        }
+        .clients h2{
+            font-size: 40px;
+        }
+        .clients-box{
+            display: flex;
+            width: 85%;
+        }
+        .icon-l-r i{
+            font-size: 18px;
+        }
+        .clients{
+        width: 95%;
+        }
+        .content-blogs{
+            flex-direction: column;
+            align-items: center;
+            gap: 10px;
+        }
+        .headings h3{
+            margin: 0 auto;
+        }
+        .headings{
+            text-align: center;
+        }
+        .btn-2 button{
+margin-bottom: 10px;
+        }
+        .business{
+            width: 100%;
+        }
+        .blogs{
+            width: 100%;
+        }
+        .blogs-container{
+            flex-direction: column;
+            align-items: center;
+            gap: 30px;
+        }
+        .blog-box{
+            width: 93%;
+        }
+        .blog-box img{
+            width: 100%;
+    height: 300px;
+        }
+        .happy-costumer{
+            flex-direction: column;
+            align-items: center;
+            width: 95%;
+        }
+        .first-div{
+            width: 95%;
+            text-align: center;
+            margin: 0 auto;
+        }
+        .first-div h3{
+            margin: 0 auto;
+        }
+        .btn2 button{
+            padding: 16px 50px;
+        }
+        .second-div{
+            width: 90%;
+            text-align: center;
+            margin:0 auto;
+
+        }
+        .div-cos-icon2{
+            flex-direction: column;
+            align-items: center;
+            gap: 10px;
+        }
+        .contact-divs{
+            flex-direction: column;
+            align-items: center;
+            gap: 30px;
+            width: 100%;
+        }
+        .first-contact{
+            width:90%;
+            align-items: center;
+            text-align: center;
+        }
+        .sec-contact{
+            width:90%;
+            align-items: center;
+            text-align: center;
+        }
+        .third-contact{
+            width:90%;
+            align-items: center;
+            text-align: center;
+        }
+           
+        
+
+}
+
+@media(max-width:425px){
+    .information{
+        display: none;
+    }
+    .list,.icons-nav,.buttons-nav{
+        display: none;
+
+    }
+    .navbar{
+        width:100%;
+        top: 0;
+    }
+        .navbar-box{
+            width: 100%;
+            padding: 0 20px;
+            align-items: center;
+        }
+        .logo{
+            width: 25%;
+        }
+        .logo img{
+            width: 100%;
+        }
+        
+        .wrapper{
+            display: block;
+            font-size: 20px;
+        color: #ed5e3a;
+        }
+        .main-section{
+            width: 100%;
+        }
+        .main{
+            width: 100%;
+        }
+        .main-section h3 a{
+         font-size: 10px;
+         padding-top: 40px;
+        }
+        .main-section h1{
+            font-size: 21px;
+        }
+        .main-section p{
+   font-size: 8px;
+        }
+        .btns{
+            flex-direction: column;
+            gap: 10px;
+            align-items: center;
+        }
+    
+        .communication{
+            flex-direction: column;
+            gap: 10px;
+            align-items: center;
+        }
+        .left-image-communication img{
+            width: 100%;
+        }
+        .right-text-communication{
+            text-align: center;
+        }
+        .right-text-communication h3{
+            margin: 0 auto;
+            font-size: 8px;
+        }
+        .right-text-communication h2{
+         font-size: 18px;
+        }
+        .right-text-communication p{
+            font-size: 8px;
+        }
+        .btn-1 button{
+            font-size: 6px;
+            padding: 10px 15px;
+        }
+        .btn-2 button{
+            font-size: 6px;
+        padding: 10px 15px;
+        }
+        .services h2{
+            font-size: 22px;
+        }
+        .btns-communication{
+            flex-direction: column;
+            align-items: center;
+            gap: 10px;
+        }
+        .content-services{
+            flex-direction: column;
+        }
+        .content-services p{
+            font-size: 9px;
+        }
+        .icon-l-r i{
+            font-size: 8px;
+        }
+        .clients{
+        width: 95%;
+        }
+        .box h3 {
+            font-size: 10px;
+            font-weight: bolder;
+        }
+        .content-box i {
+            color: #505050;
+            font-size: 12px;
+        }
+        .first-boxes-services{
+            flex-direction: column;
+            align-items: center;
+            gap: 30px;
+        }
+        .box{
+            width: 80%;
+        }
+        .business{
+            width: 100%;
+        }
+        .business h2{
+            font-size: 22px;
+        }
+        .business p{
+            font-size: 8px;
+        }
+        .clients h2{
+            font-size: 22px;
+        }
+        .clients-box{
+            display: flex;
+            width: 70%;
+        }
+    
+        .content-blogs{
+            flex-direction: column;
+            align-items: center;
+            gap: 10px;
+        }
+        .headings h3{
+            margin: 0 auto;
+            font-size: 8px;
+        }
+        .headings h2 {
+            font-size: 24px;
+        }
+        .headings p {
+            padding: 0px 0px;
+            font-size: 8px;
+        }
+        .headings{
+            text-align: center;
+        }
+        .btn-2 button{
+margin-bottom: 10px;
+        }
+        .blogs{
+            width: 100%;
+        }
+        .blogs-container{
+            flex-direction: column;
+            align-items: center;
+            gap: 30px;
+        }
+        .blog-box{
+            width: 90%;
+        }
+        .blog-box img{
+            width: 100%;
+    height: 155px;
+        }
+        .content-blog-box h3{
+            font-size: 8px;
+        }
+        .content-blog-box h2 {
+            font-size: 12px;
+        }
+        .content-blog-box p {
+            font-size: 8px;
+        }
+        .happy-costumer{
+            flex-direction: column;
+            align-items: center;
+            width: 100%;
+        }
+        .first-div{
+            width: 80%;
+            text-align: center;
+            margin: 0 auto;
+        }
+        .first-div h3{
+            margin: 0 auto;
+            font-size: 10px;
+        }
+        .first-div h2 {
+            font-size: 18px;
+        }
+        .first-div p {
+            font-size: 10px;
+            padding: 10px 0px;
+        }
+        .btn2 button{
+            padding: 10px 30px;
+            font-size: 6px;
+        }
+        .second-div{
+            width: 85%;
+            text-align: center;
+            margin:0 auto;
+
+        }
+        .second-div p {
+            font-size: 8px;
+        }
+        .icons-stars i{
+            font-size: 8px;
+        }
+        h5{
+            font-size: 12px;
+        }
+        .second-div span {
+            color: #505050;
+            font-size: 8px;
+        }
+        .btn-type button {
+            color: #666565;
+            font-size: 9px;
+        }
+        .icons-cos i {
+            font-size: 10px;
+        }
+        .first-contact img{
+            width: 25%;
+        }
+        .first-contact p {
+            padding-top: 10px;
+            color: #505050;
+            font-size: 8px;
+        }
+        .sec-contact h3 {
+            font-size: 15px;
+        }
+        .link-1 a {
+            font-size:8px;
+        }
+        .link-2 a {
+            font-size:8px;
+        }
+        .third-contact h2 {
+            color: #505050;
+            font-size: 15px;
+        }
+        .div-cos-icon2{
+            flex-direction: column;
+            align-items: center;
+            gap: 10px;
+        }
+        .contact-divs{
+            flex-direction: column;
+            align-items: center;
+            gap: 30px;
+            width: 100%;
+        }
+        .third-contact p {
+            font-size: 8px;
+        }
+        .third-contact img {
+            width: 25%;
+        }
+        .first-contact{
+            width:85%;
+            align-items: center;
+            text-align: center;
+        }
+        .sec-contact{
+            width:85%;
+            align-items: center;
+            text-align: center;
+        }
+        .third-contact{
+            width:85%;
+            align-items: center;
+            text-align: center;
+        }
+           
+        
+
+}
+
+@media(max-width:320px){
+    .information{
+        display: none;
+    }
+    .list,.icons-nav,.buttons-nav{
+        display: none;
+
+    }
+    .navbar{
+        width:100%;
+        top: 0;
+    }
+        .navbar-box{
+            width: 100%;
+            padding: 0 20px;
+            align-items: center;
+        }
+        .logo{
+            width: 25%;
+        }
+        .logo img{
+            width: 100%;
+        }
+        
+        .wrapper{
+            display: block;
+            font-size: 20px;
+        color: #ed5e3a;
+        }
+        .main-section{
+            width: 100%;
+        }
+        .main{
+            width: 100%;
+        }
+        .main-section h3 a{
+         font-size: 10px;
+         padding-top: 40px;
+        }
+        .main-section h1{
+            font-size: 21px;
+        }
+        .main-section p{
+   font-size: 8px;
+        }
+        .btns{
+            flex-direction: column;
+            gap: 10px;
+            align-items: center;
+        }
+    
+        .communication{
+            flex-direction: column;
+            gap: 10px;
+            align-items: center;
+        }
+        .left-image-communication img{
+            width: 100%;
+        }
+        .right-text-communication{
+            text-align: center;
+        }
+        .right-text-communication h3{
+            margin: 0 auto;
+            font-size: 8px;
+        }
+        .right-text-communication h2{
+         font-size: 18px;
+        }
+        .right-text-communication p{
+            font-size: 8px;
+        }
+        .btn-1 button{
+            font-size: 6px;
+            padding: 10px 15px;
+        }
+        .btn-2 button{
+            font-size: 6px;
+        padding: 10px 15px;
+        }
+        .services h2{
+            font-size: 22px;
+        }
+        .btns-communication{
+            flex-direction: column;
+            align-items: center;
+            gap: 10px;
+        }
+        .content-services{
+            flex-direction: column;
+        }
+        .content-services p{
+            font-size: 9px;
+        }
+        .icon-l-r i{
+            font-size: 8px;
+        }
+        .clients{
+        width: 95%;
+        }
+        .box h3 {
+            font-size: 10px;
+            font-weight: bolder;
+        }
+        .content-box i {
+            color: #505050;
+            font-size: 12px;
+        }
+        .first-boxes-services{
+            flex-direction: column;
+            align-items: center;
+            gap: 30px;
+        }
+        .box{
+            width: 80%;
+        }
+        .business{
+            width: 100%;
+        }
+        .business h2{
+            font-size: 22px;
+        }
+        .business p{
+            font-size: 8px;
+        }
+        .clients h2{
+            font-size: 22px;
+        }
+        .clients-box{
+            display: flex;
+            width: 70%;
+        }
+    
+        .content-blogs{
+            flex-direction: column;
+            align-items: center;
+            gap: 10px;
+        }
+        .headings h3{
+            margin: 0 auto;
+            font-size: 8px;
+        }
+        .headings h2 {
+            font-size: 24px;
+        }
+        .headings p {
+            padding: 0px 0px;
+            font-size: 8px;
+        }
+        .headings{
+            text-align: center;
+        }
+        .btn-2 button{
+margin-bottom: 10px;
+        }
+        .blogs{
+            width: 100%;
+        }
+        .blogs-container{
+            flex-direction: column;
+            align-items: center;
+            gap: 30px;
+        }
+        .blog-box{
+            width: 90%;
+        }
+        .blog-box img{
+            width: 100%;
+    height: 155px;
+        }
+        .content-blog-box h3{
+            font-size: 8px;
+        }
+        .content-blog-box h2 {
+            font-size: 12px;
+        }
+        .content-blog-box p {
+            font-size: 8px;
+        }
+        .happy-costumer{
+            flex-direction: column;
+            align-items: center;
+            width: 100%;
+        }
+        .first-div{
+            width: 80%;
+            text-align: center;
+            margin: 0 auto;
+        }
+        .first-div h3{
+            margin: 0 auto;
+            font-size: 10px;
+        }
+        .first-div h2 {
+            font-size: 18px;
+        }
+        .first-div p {
+            font-size: 10px;
+            padding: 10px 0px;
+        }
+        .btn2 button{
+            padding: 10px 30px;
+            font-size: 6px;
+        }
+        .second-div{
+            width: 85%;
+            text-align: center;
+            margin:0 auto;
+
+        }
+        .second-div p {
+            font-size: 8px;
+        }
+        .icons-stars i{
+            font-size: 8px;
+        }
+        h5{
+            font-size: 12px;
+        }
+        .second-div span {
+            color: #505050;
+            font-size: 8px;
+        }
+        .btn-type button {
+            color: #666565;
+            font-size: 9px;
+        }
+        .icons-cos i {
+            font-size: 10px;
+        }
+        .first-contact img{
+            width: 25%;
+        }
+        .first-contact p {
+            padding-top: 10px;
+            color: #505050;
+            font-size: 8px;
+        }
+        .sec-contact h3 {
+            font-size: 15px;
+        }
+        .link-1 a {
+            font-size:8px;
+        }
+        .link-2 a {
+            font-size:8px;
+        }
+        .third-contact h2 {
+            color: #505050;
+            font-size: 15px;
+        }
+        .div-cos-icon2{
+            flex-direction: column;
+            align-items: center;
+            gap: 10px;
+        }
+        .contact-divs{
+            flex-direction: column;
+            align-items: center;
+            gap: 30px;
+            width: 100%;
+        }
+        .third-contact p {
+            font-size: 8px;
+        }
+        .third-contact img {
+            width: 25%;
+        }
+        .first-contact{
+            width:85%;
+            align-items: center;
+            text-align: center;
+        }
+        .sec-contact{
+            width:85%;
+            align-items: center;
+            text-align: center;
+        }
+        .third-contact{
+            width:85%;
+            align-items: center;
+            text-align: center;
+        }
+           
+        
+
+}
+
